@@ -1,0 +1,28 @@
+name: Verbesserung vorschlagen
+description: Beschreibe einen Wunsch oder eine Frage zur Nutzung.
+title: '[Wunsch] '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: 'Alle Angaben sind öffentlich. Keine Personendaten, echten Ticketinhalte, Zugangsdaten oder internen URLs angeben.'
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Öffentliche Angaben
+      options:
+        - label: Meine Angaben enthalten keine vertraulichen Informationen.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was möchtest du erreichen?
+      description: Welche Aufgabe ist heute schwierig oder nicht möglich?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Dein Vorschlag oder deine Frage
+    validations:
+      required: true
