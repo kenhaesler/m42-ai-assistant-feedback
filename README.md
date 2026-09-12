@@ -2,6 +2,8 @@
 
 Hier kannst du Fehler melden, Verbesserungen vorschlagen und den Fortschritt deiner Meldungen verfolgen.
 
+**Einrichtung läuft:** Meldungen können bereits erstellt werden. Die automatische Übernahme und Status-Synchronisierung werden noch aktiviert und geprüft.
+
 **[Neue Meldung erstellen](https://github.com/kenhaesler/m42-ai-assistant-feedback/issues/new/choose)** · **[Meldungen ansehen](https://github.com/kenhaesler/m42-ai-assistant-feedback/issues)**
 
 Du brauchst ein GitHub-Konto. Dieses Repository enthält die öffentlichen Formulare und Informationen zum Feedback-Kanal. Der Anwendungscode ist privat.
