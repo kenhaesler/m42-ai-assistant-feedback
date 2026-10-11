@@ -19,7 +19,7 @@ Das Projektteam übernimmt die Meldung in seine interne Bearbeitung. Dein öffen
 | Geschlossen | Die Bearbeitung ist abgeschlossen. |
 | Nicht geplant | Derzeit ist keine Umsetzung vorgesehen. |
 
-Die Übernahme wird ungefähr alle fünf Minuten geprüft. GitHub kann geplante Läufe verzögern. Die Statuspflege erfolgt durch das Projektteam; ergänze weitere Informationen oder Wiedereröffnungswünsche als Kommentar.
+Die Übernahme wird ungefähr alle vier Stunden geprüft. GitHub kann geplante Läufe verzögern. Die Statuspflege erfolgt durch das Projektteam; ergänze weitere Informationen oder Wiedereröffnungswünsche als Kommentar.
 
 ## Bitte nur öffentliche Informationen
 
